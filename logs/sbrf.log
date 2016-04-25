@@ -1,0 +1,16 @@
+2016-04-26 00:38:53 INFO     AllureSteps:21 - Testing: 1 + 2 = 3
+2016-04-26 00:38:53 INFO     AllureSteps:24 - Actual result: 3
+2016-04-26 00:38:53 INFO     AllureSteps:30 - Testing: 2 - 1 = 1
+2016-04-26 00:38:53 INFO     AllureSteps:33 - Actual result: 1
+2016-04-26 00:38:53 INFO     AllureSteps:39 - Testing: 3 * 4 = 12
+2016-04-26 00:38:53 INFO     AllureSteps:42 - Actual result: 12
+2016-04-26 00:38:53 INFO     AllureSteps:48 - Testing: 20 / 0 = 1
+2016-04-26 00:38:53 INFO     AllureSteps:21 - Testing: 15 + 22 = 35
+2016-04-26 00:38:53 INFO     AllureSteps:24 - Actual result: 37
+2016-04-26 00:38:53 INFO     AllureSteps:39 - Testing: 34 * 0 = 0
+2016-04-26 00:38:53 INFO     AllureSteps:42 - Actual result: 0
+2016-04-26 00:38:53 INFO     AllureSteps:48 - Testing: 125 / 12 = 7
+2016-04-26 00:38:53 INFO     AllureSteps:53 - Actual result: 10
+2016-04-26 00:38:53 INFO     AllureSteps:39 - Testing: 10 * 20 = 200
+2016-04-26 00:38:53 INFO     AllureSteps:42 - Actual result: 200
+2016-04-26 00:38:53 INFO     AllureSteps:48 - Testing: 13 / 0 = 123
